@@ -1,0 +1,18 @@
+{
+    "batch_size": 5120,
+    "epoch": 1000,
+    "iteration": 10000,
+    "dropout": 0.4,
+    "vecDims": 50,
+    "Tau": 300,
+    "overlap_rate": [0.5],
+    "train_rate": [0.5],
+    "CPUs": 8,
+    "learning_rate": 0.001,
+    "margin": 1,
+    "hit": 10,
+    "alpha": 0.01,
+    "beta1": 0.9,
+    "beta2": 0.999,
+    "eps": 1e-08
+}
